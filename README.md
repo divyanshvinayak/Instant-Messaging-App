@@ -1,6 +1,6 @@
-# Realtime Chat App
+# Instant Messaging App
 
-This is a basic implementation of a realtime chat application using Flutter.
+This is a basic implementation of an instant messaging application using Flutter.
 
 ## Getting Started
 
@@ -10,11 +10,11 @@ $ export PATH="$PATH:`pwd`/flutter/bin"
 ```
 2. Fork this repository from GitHub and clone your fork.
 ```
-$ git clone https://github.com/YOUR-USERNAME/Realtime-Chat-App.git
+$ git clone https://github.com/YOUR-USERNAME/Instant-Messaging-App.git
 ```
 3. Change your directory to the one containing the source code.
 ```
-$ cd Realtime-Chat-App
+$ cd Instant-Messaging-App
 ```
 4. Install the required package dependencies.
 ```
@@ -27,7 +27,7 @@ $ flutter run
 
 ## How to contribute?
 
-Feel free to fork this repository, test it locally and then report any bugs you find in the [issue tracker](https://github.com/divyanshvinayak/Realtime-Chat-App/issues) or even submit a pull request.
+Feel free to fork this repository, test it locally and then report any bugs you find in the [issue tracker](https://github.com/divyanshvinayak/Instant-Messaging-App/issues) or even submit a pull request.
 
 ## License
 
